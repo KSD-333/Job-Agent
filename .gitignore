@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+resumes/generated/
+cover_letters/*.docx
+database/history/
+*.index
+.venv/
+reports/
+jobs/*.json
+!jobs/sample_jobs.json

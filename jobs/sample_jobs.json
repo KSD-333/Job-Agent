@@ -1,0 +1,90 @@
+[
+  {
+    "company": "Google",
+    "role": "Android Developer",
+    "location": "Bangalore, India",
+    "skills": ["Java", "Kotlin", "Android SDK", "Jetpack Compose", "MVVM", "REST APIs", "Git", "CI/CD", "Unit Testing", "Firebase"],
+    "salary": "₹25-45 LPA",
+    "description": "We are looking for a skilled Android Developer to join our mobile team. You will design and build advanced applications for the Android platform. Responsibilities include collaborating with cross-functional teams to define, design, and ship new features. You should have strong experience with Java and Kotlin, deep understanding of Android SDK, and familiarity with Jetpack Compose. Experience with MVVM architecture, REST APIs, unit testing, and CI/CD pipelines is required. Knowledge of Firebase and Google Play Services is a plus.",
+    "source": "local",
+    "url": "https://careers.google.com/jobs/android-developer",
+    "posted_at": "2026-07-20"
+  },
+  {
+    "company": "Amazon",
+    "role": "Software Development Engineer",
+    "location": "Hyderabad, India",
+    "skills": ["Java", "Spring Boot", "AWS", "Microservices", "Docker", "Kubernetes", "SQL", "NoSQL", "System Design", "Data Structures"],
+    "salary": "₹20-40 LPA",
+    "description": "Amazon is hiring Software Development Engineers to build scalable, distributed systems. You will own the full development lifecycle from design to deployment. Strong proficiency in Java and Spring Boot is required. Experience with AWS services (EC2, S3, Lambda, DynamoDB), microservices architecture, Docker, and Kubernetes is essential. You should be comfortable with SQL and NoSQL databases, system design, and have strong fundamentals in data structures and algorithms.",
+    "source": "local",
+    "url": "https://amazon.jobs/en/jobs/sde",
+    "posted_at": "2026-07-19"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Full Stack Developer",
+    "location": "Noida, India",
+    "skills": ["C#", ".NET", "React", "TypeScript", "Azure", "SQL Server", "REST APIs", "Git", "Agile", "Unit Testing"],
+    "salary": "₹22-38 LPA",
+    "description": "Microsoft is looking for a Full Stack Developer to build enterprise-grade web applications. You will work with C# and .NET on the backend and React with TypeScript on the frontend. Experience with Azure cloud services, SQL Server, and RESTful API design is required. We value strong communication skills, experience with Agile methodologies, and a commitment to writing clean, tested code.",
+    "source": "local",
+    "url": "https://careers.microsoft.com/fullstack",
+    "posted_at": "2026-07-21"
+  },
+  {
+    "company": "Flipkart",
+    "role": "Android Engineer",
+    "location": "Bangalore, India",
+    "skills": ["Java", "Kotlin", "Android SDK", "Dagger/Hilt", "RxJava", "Retrofit", "MVVM", "Room Database", "Performance Optimization", "Git"],
+    "salary": "₹18-35 LPA",
+    "description": "Flipkart is hiring Android Engineers to build India's largest e-commerce mobile experience. You will work on the Flipkart Android app used by millions. Strong experience with Java, Kotlin, and the Android SDK is required. Familiarity with Dagger/Hilt for dependency injection, RxJava for reactive programming, Retrofit for networking, and Room for local storage is essential. You should care about performance optimization and have experience with MVVM architecture patterns.",
+    "source": "local",
+    "url": "https://flipkart.com/careers/android",
+    "posted_at": "2026-07-22"
+  },
+  {
+    "company": "Zoho",
+    "role": "Java Developer",
+    "location": "Chennai, India",
+    "skills": ["Java", "Spring Boot", "Hibernate", "MySQL", "REST APIs", "JavaScript", "HTML/CSS", "Linux", "Git", "Problem Solving"],
+    "salary": "₹8-20 LPA",
+    "description": "Zoho is looking for Java Developers to build world-class SaaS products. You will design and develop backend services using Java and Spring Boot. Experience with Hibernate ORM, MySQL databases, and RESTful API design is required. Frontend knowledge of JavaScript, HTML, and CSS is a plus. You should be comfortable working on Linux systems and have strong problem-solving skills.",
+    "source": "local",
+    "url": "https://zoho.com/careers/java-developer",
+    "posted_at": "2026-07-18"
+  },
+  {
+    "company": "Razorpay",
+    "role": "Backend Engineer",
+    "location": "Bangalore, India",
+    "skills": ["Go", "Java", "Microservices", "Kafka", "Redis", "PostgreSQL", "Docker", "Kubernetes", "AWS", "System Design"],
+    "salary": "₹20-40 LPA",
+    "description": "Razorpay is hiring Backend Engineers to build India's leading payment infrastructure. You will design and build highly available, low-latency payment systems. Proficiency in Go or Java is required. Experience with microservices, message queues (Kafka), caching (Redis), and PostgreSQL is essential. You should be comfortable with Docker, Kubernetes, and AWS. Strong system design skills and understanding of distributed systems are a must.",
+    "source": "local",
+    "url": "https://razorpay.com/careers/backend",
+    "posted_at": "2026-07-23"
+  },
+  {
+    "company": "PhonePe",
+    "role": "Mobile Developer",
+    "location": "Bangalore, India",
+    "skills": ["Android", "Kotlin", "Java", "Flutter", "Dart", "REST APIs", "MVVM", "CI/CD", "Firebase", "Testing"],
+    "salary": "₹15-30 LPA",
+    "description": "PhonePe is looking for Mobile Developers to build the next generation of India's digital payments app. You will work primarily on Android using Kotlin and Java, with some exposure to Flutter for cross-platform features. Experience with REST APIs, MVVM architecture, CI/CD pipelines, and Firebase is required. Strong testing practices and attention to user experience are essential.",
+    "source": "local",
+    "url": "https://phonepe.com/careers/mobile",
+    "posted_at": "2026-07-22"
+  },
+  {
+    "company": "Swiggy",
+    "role": "Android Developer",
+    "location": "Bangalore, India",
+    "skills": ["Kotlin", "Android SDK", "Jetpack Compose", "Coroutines", "MVVM", "Retrofit", "Room", "Firebase", "Git", "Agile"],
+    "salary": "₹14-28 LPA",
+    "description": "Swiggy is hiring Android Developers to enhance our food delivery and quick commerce mobile experience. You will build features that serve millions of users daily. Expertise in Kotlin and Android SDK is required. Experience with Jetpack Compose, Kotlin Coroutines, MVVM architecture, Retrofit, and Room database is essential. Familiarity with Firebase, Git, and Agile development practices is expected.",
+    "source": "local",
+    "url": "https://careers.swiggy.com/android",
+    "posted_at": "2026-07-21"
+  }
+]

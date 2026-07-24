@@ -1,0 +1,160 @@
+{
+  "personal_info": {
+    "name": "KETAN SANJAY DHAINJE",
+    "email": "ketandhainje333@gmail.com",
+    "phone": "+91 7219452502",
+    "location": "Maharashtra, India",
+    "linkedin": "linkedin.com/in/ketan-dhainje",
+    "github": "github.com/KSD-333"
+  },
+  "skills": [
+    "Java",
+    "Kotlin",
+    "Python",
+    "Dart",
+    "JavaScript",
+    "C++",
+    "SQL",
+    "Android SDK",
+    "MVVM Architecture",
+    "Jetpack Compose",
+    "Kotlin Coroutines",
+    "Activities",
+    "Fragments",
+    "XML",
+    "Material Design",
+    "WorkManager",
+    "Firebase Realtime Database",
+    "Firebase Authentication",
+    "Firestore",
+    "Room Database (SQLite)",
+    "REST APIs",
+    "Retrofit",
+    "JSON",
+    "React.js",
+    "Node.js",
+    "HTML",
+    "CSS",
+    "TensorFlow",
+    "Scikit-learn",
+    "OpenCV",
+    "MediaPipe",
+    "Agentic AI & LLMs",
+    "LSTM",
+    "Computer Vision",
+    "Pose Estimation",
+    "LangChain",
+    "LangGraph",
+    "Hugging Face Transformers",
+    "Sentence Transformers",
+    "Embedding",
+    "Git",
+    "GitHub",
+    "Google Play Console",
+    "Android Studio",
+    "Postman",
+    "Linux",
+    "AWS",
+    "Prompt Engineering"
+  ],
+  "experience": [
+    {
+      "company": "Infoyashonand Technology Pvt. Ltd. Sangli",
+      "title": "Android Developer Intern",
+      "start_date": "01/2026",
+      "end_date": "07/2026",
+      "bullets": [
+        "Built and deployed production-ready Aadhaar Verification, RC Verification, WhatsApp PDF Delivery, and Location Tracking modules for the Saral Truck Android application using Java, MVVM, Android SDK, Firebase, and REST APIs.",
+        "Integrated 7 REST API endpoints using Retrofit, implementing secure networking, exception handling, retry mechanisms, and JSON serialization for reliable backend communication.",
+        "Distributed 15+ production feature updates and UI/UX enhancements for the Saral Truck application, improving onboarding workflows, operational efficiency, and user experience.",
+        "Managed and deployed 20+ Google Play Store releases, including version management, staged rollouts, production monitoring, and post-release validation.",
+        "Resolved 20+ production crashes by analyzing Firebase Crashlytics reports collected across 3+ Android devices, significantly improving production stability and application reliability.",
+        "Optimized Firebase Realtime Database synchronization across 20+ production releases, reducing duplicate requests and improving offline data consistency for Android applications.",
+        "Collaborated with backend engineers, QA teams, and product stakeholders to convert business requirements into scalable, production-ready Android features using Agile methodologies."
+      ]
+    },
+    {
+      "company": "EduSkills \u2013 Google for Developers",
+      "title": "Android Developer Intern",
+      "start_date": "07/2024",
+      "end_date": "09/2024",
+      "bullets": [
+        "Developed Android applications using Kotlin, Android SDK, Jetpack Compose, MVVM Architecture, Material Design 3, Kotlin Coroutines, ViewModel, and Jetpack Navigation, following Google's modern Android development guidelines.",
+        "Built 10+ reusable Jetpack Compose UI components and integrated 5+ REST APIs using Retrofit, improving code reusability and application maintainability.",
+        "Participated in the complete Android software development lifecycle including feature implementation, debugging, testing, code reviews, Git version control, Gradle build management, and Agile-based collaborative development."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Saral Truck",
+      "description": "Fleet Management Android App",
+      "skills": [
+        "Java",
+        "MVVM",
+        "Firebase",
+        "REST APIs"
+      ],
+      "bullets": [
+        "Engineered KYC verification modules (Aadhaar, RC) with robust REST API error handling, deployed to production for real-world fleet onboarding.",
+        "Provided production UI/UX improvements that streamlined the user task-completion flow for truck management workflows.",
+        "Gathered and translated user requirements into features, shipping 15+ production updates through the Google Play Store."
+      ]
+    },
+    {
+      "name": "EGuruji",
+      "description": "Education & Exam Results Android App",
+      "skills": [
+        "Java",
+        "Firebase",
+        "Android SDK"
+      ],
+      "bullets": [
+        "Implemented new format result generation for Maharashtra State Board standards (5th and 8th), reducing manual processing and improving accuracy.",
+        "Eliminated duplicate Room Database entries by redesigning local synchronization logic, improving data consistency and offline reliability.",
+        "Diagnosed and solved 20+ production crashes using Firebase Crashlytics, improving application stability across diverse Android devices and 10+ production updates including UI improvements, and application stability enhancements."
+      ]
+    },
+    {
+      "name": "Asim Agro",
+      "description": "E-commerce Platform",
+      "skills": [
+        "React",
+        "Node.js",
+        "Firebase"
+      ],
+      "bullets": [
+        "Built and deployed a live e-commerce platform managing 30+ products and supporting real-world order management workflows.",
+        "Developed a full admin dashboard for product management, order tracking, and delivery monitoring."
+      ]
+    },
+    {
+      "name": "Silent Screams",
+      "description": "Real-Time Distress Detection System",
+      "skills": [
+        "TensorFlow",
+        "MediaPipe",
+        "OpenCV",
+        "LSTM"
+      ],
+      "bullets": [
+        "Engineered a fully offline behavioral anomaly detection system using TensorFlow, Bi-LSTM, MediaPipe, and OpenCV for privacy-preserving distress detection.",
+        "Trained a Bi-LSTM model on 200+ annotated video clips across two behavioral classes using 33-pose keypoints extracted at 30 FPS.",
+        "Achieved 86% inference accuracy, < 120 ms CPU inference latency, and < 2% false-positive rate, enabling real-time local alerts without cloud dependency."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Annasaheb Dange College of Engineering & Technology, Shivaji University",
+      "degree": "Bachelor of Technology (B.Tech), Computer Science Engineering",
+      "start_date": "2022",
+      "end_date": "2026"
+    }
+  ],
+  "achievements": [
+    "GATE 2026 Qualified \u2013 Graduate Aptitude Test in Engineering.",
+    "NPTEL E-Business \u2013 Elite Certification, Top 5%, IIT Kharagpur."
+  ],
+  "keywords": []
+}
